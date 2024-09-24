@@ -1,4 +1,4 @@
-package com.valenpatel.realmdatabasepractice
+package com.valenpatel.realmdatabasepractice.baseapp
 
 import android.app.Application
 import io.realm.Realm

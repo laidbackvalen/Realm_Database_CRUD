@@ -5,7 +5,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".views.MainActivity">
 
     <TextView
         android:id="@+id/textView"
@@ -79,7 +79,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="15dp"
-        android:text="Displaying All Data Below :"
+        android:text="Retrieving All Data Below :"
         android:textColor="@color/black"
         android:textAppearance="@style/TextAppearance.AppCompat.Small"
         android:textStyle="bold"
